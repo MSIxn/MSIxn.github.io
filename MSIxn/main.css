@@ -1,0 +1,56 @@
+table, th, td {
+    border: 1px solid rgba(0, 0, 0, 0.986);
+}
+.s{
+background-color: rgb(183, 117, 238); font-style: oblique; color: rgb(0, 0, 0);
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+justify-self: center;
+}
+.bir{
+    margin-left: 400px;
+}
+.container{
+    background-color: rgb(183, 117, 238);
+}
+.ikki{
+color: rgb(#ffffff);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ .card__container{
+    width: 30%;
+    background: rgb(109, 66, 189);
+    border-radius: 5rem;
+    font-family: sans-serif;
+    color:#ac0c24 ;
+    text-align: center;
+  margin-left: 450px;
+border:2px solid  #ac0c24 ;
+    }
+.card__header{
+    margin-bottom: 1rem;
+    font-family: monospace;
+    color: #ac0c24;
+    text-align: center;
+    font-size: 30px;
+    }
+    .card::before{
+    position: absolute;
+    top: 2rem;
+    right:-0.5rem;
+    content: "";
+    background: #fc5185;
+    height: 28px;
+    width: 28px;
+    transform: rotate(45deg);
+    text-align: center;
+    }
+.mm{
+font-size: 30px;
+text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #ac0c24 ;
+}
+
+
+
